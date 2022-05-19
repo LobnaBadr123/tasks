@@ -1,4 +1,4 @@
-create database sales;
+Create database sales;
 use sales;
 CREATE TABLE IF NOT EXISTS test (
     numbers INT(10),
